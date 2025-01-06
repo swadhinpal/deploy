@@ -4,7 +4,7 @@
   "description": "A simple math module with unit tests",
   "main": "math.js",
   "scripts": {
-    "test": "node --test"
+    "test": "jest"
   },
   "dependencies": {
     "cors": "^2.8.5",
